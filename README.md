@@ -115,3 +115,9 @@ Warm greetings from FawzyCode as the author and developer of this application (â
   <p align="center">
       <img src="https://github.com/user-attachments/assets/a00c0c04-6b31-49f8-b780-1eb9faa43f27" style="width:65%; height:auto;">
   </p>
+
+## if you want to create a modified application and build it
+Use this command to create it
+```
+pyinstaller --onefile --noconsole --name "<NamaAplikasiBaru>" --icon=icon.png app.py
+```
