@@ -111,3 +111,7 @@ Before download file chat from whatsapp application, there are several things yo
 
 Warm greetings from FawzyCode as the author and developer of this application (●'◡'●)
    
+## this is the main code of the program in the app.py file
+  <p align="center">
+      <img src="https://github.com/user-attachments/assets/a00c0c04-6b31-49f8-b780-1eb9faa43f27" style="width:65%; height:auto;">
+  </p>
